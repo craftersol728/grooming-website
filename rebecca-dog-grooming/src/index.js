@@ -1,11 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import App from './App';
+import ImageTrack from './components/ImageTrack';
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
 
-    <App />
-
+ReactDOM.createRoot(document.getElementById('root')).render(
+    <>
+        <ImageTrack />
+        
+    </>
 );
-
