@@ -13,11 +13,11 @@
 
 .inner-carousel{
     display: flex;
-    background: lightgreen;
+
 }
 
 .carousel{
     cursor:grab;
     overflow: hidden;
-    background: antiquewhite;
+
 }
